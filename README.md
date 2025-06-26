@@ -5,6 +5,8 @@ A simple React + TypeScript project using Material UI and MockAPI.
 ## 🚀 How to Set Up the Project
 
 ### 1. Clone the Repository
+      git clone https://github.com/sriramhs/recruiterflow_assignment1.git
+
 
 ### 2. Install Dependencies
 
